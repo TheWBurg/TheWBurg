@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I am a computer scientist interested in quantum computing and quantum algorithms. 
 <!--
 **TheWBurg/TheWBurg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
